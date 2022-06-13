@@ -1,0 +1,56 @@
+body{
+    box-sizing:border-box;
+    background-color:black;
+
+}
+.container{
+    background-image: url(https://i.pinimg.com/736x/4a/2b/dd/4a2bdd83d165a5f2aad4fbc8bffd8e1a.jpg);
+    background-repeat: round
+}
+
+.col{
+    
+    
+    height: 55%;
+    border: 1px solid black;
+    padding-bottom: 10%;
+    margin: 1.8%;
+    background-color: rgb(161 219 245 / 92%);
+    font-family: cursive;
+}
+
+.navbar{
+    height: 18em;
+    border: 1px solid black;
+    padding-bottom: 10%;
+    top: 50%;
+    text-align: center;
+    }
+
+    .container-fluid{
+        text-align: center;
+    }
+
+    #search,.btn{
+     height:30%;
+        }
+    #search{
+        width:94%;
+    }
+    
+    .box{
+        margin-left:10%;
+    }
+
+    h3{
+        color: white;
+        font-weight: 760;
+        text-align:center;
+        font-size: 60px;
+        word-spacing: 20px;
+    }
+
+    h2{
+        color: white;
+        font-weight: 400;
+    }
